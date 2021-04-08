@@ -1,0 +1,10 @@
+Package: BreedManag
+Type: Package
+Title: Management in Breeding Programs
+Version: 0.2.0
+Author: Dementshuk
+Maintainer: Dementshuk <julianadm@yahoo.com>
+Description: The package assists activities and control of breeding programs in herds. See helpBM() to more details.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
