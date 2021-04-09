@@ -1,5 +1,8 @@
 Breed  Management - Package: BreedManag
 ==========================
+Breeding herd management program
+
+To run the package:
 
 If you just arrived:
 
@@ -19,4 +22,6 @@ MatingRecommendation(): Makes it possible to make the mating recommendation base
 
 CheckMating(): Checks if mates are being done according to the recommendation.
 
-Inb(): Calculate inbreeding coefficients for a animal list.
+Inb(): Calculate inbreeding coefficients for a animal list. - Do not use (problem reported - ordering of the pedigree)
+
+More information about input and output files put in functions.
