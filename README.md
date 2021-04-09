@@ -24,4 +24,4 @@ CheckMating(): Checks if mates are being done according to the recommendation.
 
 Inb(): Calculate inbreeding coefficients for a animal list. - Do not use (problem reported - ordering of the pedigree)
 
-More information about input and output files put in functions.
+More information about input and output files are in the functions.
